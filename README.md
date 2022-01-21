@@ -1,6 +1,7 @@
 ### Hi there 👋
-I am Sunny. I am Taiwaness. I am currently in QLD, Australia.
-</br>I am learning on Alphacamp to become a back-end developer.
+I am Sunny:grinning:. I am Taiwaness. I am currently in QLD, Australia.
+</br>I am learning on [Alphacamp](https://tw.alphacamp.co/) to become a back-end developer.
+</br>My hobbies are hiking:sunrise_over_mountains:, swimming:swimming_woman:, and of course drinking:clinking_glasses:
 </br>I like to meet news friends and know more about different culture.
 
 <!--
