@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am Sunny. I am Taiwaness. I am currently in QLD, Australia.
+</br>I am learning on Alphacamp to become a back-end developer.
+</br>I like to meet news friends and know more about different culture.
 
 <!--
 **Sunnywu1010/Sunnywu1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
